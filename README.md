@@ -1,0 +1,2 @@
+# Covid_detection_using_chest_X_Ray
+Because of the rapid spread of Covid-19, the world experienced unprecedented events. For a brief period of time , the world was shut down and pushed into isolation. Diagnosis took an unusually long time, causing life-style delays. This paper examines the use of popular deep learning method CNN and transfer learning methods MobileNet, VGG16, and ResNet50 in classifying chest X-ray images into three categories (Normal, Covid, and Viral Pneumonia) by verifying patterns of virus presence in the lungs.
